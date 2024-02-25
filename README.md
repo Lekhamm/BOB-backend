@@ -2,7 +2,7 @@
 This platform is built using React for the front end and Java for the backend. Our goal is to offer a fundamental social media experience where users can register, log in, share updates, connect with friends, like, comment, save posts, edit profiles, search for users, and much more. With React powering the front end and Java handling the backend, you have the flexibility to extend and customize your social media journey to suit your unique needs and preferences. 
 
 # Database Schemas and Entities
-MySQL Database
+MySQL Database:
 MySQL is utilized as the primary database management system for this project. Below are the schemas and entities .
 
 Schema 1: Users
